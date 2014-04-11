@@ -4,4 +4,4 @@ gitdisco
 Mozilla Foundation staff are learning git together.
 
 
-Here we go!
+Here we go! yeah.
